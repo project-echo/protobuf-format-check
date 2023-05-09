@@ -1,0 +1,5 @@
+name: 'protobuf file formatting'
+description: 'Check protobuf file formatting'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
