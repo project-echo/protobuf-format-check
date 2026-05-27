@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 set -e -x -o pipefail
 
 git config --global --add safe.directory '*'
